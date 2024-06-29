@@ -1,0 +1,6 @@
+2023/02/08-11:37:03.351 e129 Creating DB /home/fras/.config/chromium/Default/IndexedDB/https_contenthub.netacad.com_0.indexeddb.leveldb since it was missing.
+2023/02/08-11:37:03.377 e129 Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_contenthub.netacad.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/08-11:37:45.052 e129 Level-0 table #5: started
+2023/02/08-11:37:45.055 e129 Level-0 table #5: 1789 bytes OK
+2023/02/08-11:37:45.057 e129 Delete type=0 #3
+2023/02/08-11:37:45.057 e129 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

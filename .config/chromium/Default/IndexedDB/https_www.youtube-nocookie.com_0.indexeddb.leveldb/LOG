@@ -1,0 +1,6 @@
+2023/01/28-15:49:14.062 4b36 Creating DB /home/fras/.config/chromium/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/01/28-15:49:14.068 4b36 Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/28-15:49:28.209 462f Level-0 table #5: started
+2023/01/28-15:49:28.211 462f Level-0 table #5: 1196 bytes OK
+2023/01/28-15:49:28.214 462f Delete type=0 #3
+2023/01/28-15:49:28.215 462f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

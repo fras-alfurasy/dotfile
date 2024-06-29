@@ -1,0 +1,5 @@
+2024/04/26-17:07:07.334 3df Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/26-17:07:07.337 3df Recovering log #226
+2024/04/26-17:07:07.340 3df Reusing old log /home/fras/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000226.log 
+2024/04/26-17:07:07.340 3df Delete type=2 #227
+2024/04/26-17:07:07.341 3df Delete type=2 #224

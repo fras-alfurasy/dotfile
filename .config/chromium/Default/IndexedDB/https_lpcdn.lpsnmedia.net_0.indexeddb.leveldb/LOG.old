@@ -1,0 +1,6 @@
+2023/02/01-09:28:32.105 532a Creating DB /home/fras/.config/chromium/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb since it was missing.
+2023/02/01-09:28:32.130 532a Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/01-09:43:32.472 5f27 Level-0 table #5: started
+2023/02/01-09:43:32.475 5f27 Level-0 table #5: 1576 bytes OK
+2023/02/01-09:43:32.478 5f27 Delete type=0 #3
+2023/02/01-09:43:32.478 5f27 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

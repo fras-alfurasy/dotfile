@@ -1,0 +1,138 @@
+body {
+  border: 0;
+  margin: 0;
+  width: 550px;
+  padding: 0 1px;
+  overflow: hidden;
+}
+
+table tr td {
+  padding: 0;
+  text-align: center;
+  font-family: monospace;
+  transition: 300ms ease all;
+}
+
+p {
+  color: #333;
+  padding: 10px;
+  font-weight: 600;
+  margin: 5px 0 0 0;
+  user-select: none;
+  text-align: center;
+  font-family: monospace;
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+}
+
+.controls, .footer {
+  width: 100%;
+  font-size: 12px;
+  border-spacing: 0;
+}
+
+.controls {
+  height: 100%;
+  table-layout: fixed;
+}
+
+.footer {
+  height: 36px;
+  border-left: 0;
+  border-right: 0;
+  margin-top: 5px;
+  background-color: rgba(0,0,0,0.05);
+  border-top: solid 1px rgba(0,0,0,0.05);
+  border-bottom: solid 1px rgba(0,0,0,0.05);
+}
+
+#ip, #check, #support, #install, #reload {
+  width: 42px;
+  cursor: pointer;
+}
+
+#ip svg, #check svg, #support svg, #install svg, #reload svg {
+  fill: #555;
+  pointer-events: none;
+  vertical-align: middle;
+}
+
+#status {
+  color: #333;
+  height: 38px;
+  font-size: 12px;
+  font-weight: 600;
+  user-select: none;
+  text-align: center;
+  font-family: monospace;
+}
+
+#ON, #OFF {
+  height: 90px;
+  cursor: pointer;
+  position: relative;
+  border-bottom: solid 1px transparent;
+}
+
+#ON {background: url("../icons/ON/84.png") no-repeat center center}
+#OFF {background: url("../icons/OFF/84.png") no-repeat center center}
+
+#ON[type="active"] {border-bottom: solid 1px #7c4698}
+#OFF[type="active"] {border-bottom: solid 1px #a8a8a8}
+#ON, #OFF {background-size: 42px}
+
+#whitelist {
+  color: #333;
+  padding: 10px;
+  height: 150px;
+  outline: none;
+  margin: 0 auto;
+  font-size: 12px;
+  line-height: 22px;
+  box-sizing: border-box;
+  font-family: monospace;
+  width: calc(100% - 15px);
+  border: solid 1px rgba(0,0,0,0.1);
+}
+
+#ip:hover,
+#ON:hover,
+#OFF:hover,
+#check:hover,
+#reload:hover,
+#install:hover,
+#support:hover {
+  background-color: rgba(0,0,0,0.05) !important;
+}
+
+#ip:active,
+#ON:active,
+#OFF:active,
+#check:active,
+#reload:active,
+#install:active,
+#support:active {
+  opacity: 0.7;
+}
+
+/*
+  #ON::before, #OFF::before {
+    bottom: 5px;
+    color: #999;
+    font-size: 12px;
+    position: absolute;
+  }
+
+  #ON::before {
+    content: "Connect";
+    left: calc(50% - 21px);
+  }
+
+  #OFF::before {
+    content: "Disconnect";
+    left: calc(50% - 32px);
+  }
+*/

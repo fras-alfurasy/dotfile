@@ -1,0 +1,15 @@
+2023/02/07-08:59:04.837 732 Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/07-08:59:04.837 732 Recovering log #7
+2023/02/07-08:59:04.839 732 Reusing old log /home/fras/.config/chromium/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/000007.log 
+2023/02/07-20:45:45.845 41915 Level-0 table #12: started
+2023/02/07-20:45:45.868 41915 Level-0 table #12: 8127 bytes OK
+2023/02/07-20:45:45.891 41915 Delete type=0 #7
+2023/02/07-20:45:45.891 41915 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/02/07-20:45:45.891 41915 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x01\x02\x00e\x00n\x00\x01\x13\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00p\x00r\x00e\x00f\x00e\x00r\x00e\x00n\x00c\x00e' @ 229 : 1
+2023/02/07-20:45:45.891 41915 Compacting 1@1 + 1@2 files
+2023/02/07-20:45:45.895 41915 Generated table #13@1: 31 keys, 829 bytes
+2023/02/07-20:45:45.895 41915 Compacted 1@1 + 1@2 files => 829 bytes
+2023/02/07-20:45:45.897 41915 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/07-20:45:45.898 41915 Delete type=2 #12
+2023/02/07-20:45:45.898 41915 Delete type=2 #9
+2023/02/07-20:45:45.898 41915 Manual compaction at level-1 from '\x00\x01\x01 \x01\x02\x00e\x00n\x00\x01\x13\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00p\x00r\x00e\x00f\x00e\x00r\x00e\x00n\x00c\x00e' @ 229 : 1 .. (end); will stop at (end)

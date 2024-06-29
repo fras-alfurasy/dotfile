@@ -1,0 +1,31 @@
+# Font
+font_family      JetBrains Mono
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+font_size        11.0
+
+# General config
+disable_ligatures          never
+cursor_stop_blinking_after 15.0
+mouse_hide_wait            3.0
+placement_strategy         center
+clipboard_control          write-clipboard write-primary read-clipboard-ask read-primary-ask no-append
+allow_remote_control       yes
+
+# Appearance
+#term                  xterm-kitty
+include               ./theme.conf
+background_opacity   0.70 
+window_padding_width  12
+
+# fix underline position
+modify_font underline_position 9
+modify_font underline_thickness 100%
+modify_font strikethrough_position 2px
+
+
+# BEGIN_KITTY_THEME
+# 1984 Dark
+include current-theme.conf
+# END_KITTY_THEME

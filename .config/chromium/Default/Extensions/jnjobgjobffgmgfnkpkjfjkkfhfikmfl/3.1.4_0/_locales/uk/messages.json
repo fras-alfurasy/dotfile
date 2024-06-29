@@ -1,0 +1,154 @@
+{
+   "about@changelog": {
+      "description": "Changelog link in about section",
+      "message": "Список змін"
+   },
+   "about@developedBy": {
+      "description": "Developer credits in about section",
+      "message": "Розробник: Євген Лис"
+   },
+   "about@feedback": {
+      "description": "Feedback link in about section",
+      "message": "Залишити відгук"
+   },
+   "about@licensedUnder": {
+      "description": "License info in about section",
+      "message": ""
+   },
+   "about@mitLicense": {
+      "description": "License name",
+      "message": "Ліцензія MIT"
+   },
+   "about@sourceCode": {
+      "description": "Source code link in about section",
+      "message": "Вихідний код"
+   },
+   "about@sponsor": {
+      "description": "Buy me a coffee donation link in about section",
+      "message": "Підтримати"
+   },
+   "about@title": {
+      "description": "About section title",
+      "message": "Про розширення"
+   },
+   "about@translationCta": {
+      "description": "Translation CTA in about section",
+      "message": "Знайшли помилку або хочете переклад на вашу мову?"
+   },
+   "about@translationCtaButton": {
+      "description": "Translation CTA button in about section",
+      "message": "Почніть тут"
+   },
+   "about@website": {
+      "description": "Website link in about section",
+      "message": "Мій веб-сайт"
+   },
+   "author": {
+      "description": "Extension author",
+      "message": "Євген Лис"
+   },
+   "description": {
+      "description": "Extension description",
+      "message": "Розширення, яке дозволяє легко генерувати складні та надійні паролі в один клік"
+   },
+   "error@moreCharacters": {
+      "description": "Error message when password length is less than 4 characters",
+      "message": "Мінімальна довжина пароля — 4 символи"
+   },
+   "error@noCharacters": {
+      "description": "Error message when no character set is selected",
+      "message": "Необхідно вибрати хоча б один вид символів"
+   },
+   "error@tooLong": {
+      "description": "Error message when password length is too long to generate password with unique characters",
+      "message": "Вибрана довжина занадто велика, для генерації унікальних символів"
+   },
+   "generator@copy": {
+      "description": "Copy button label",
+      "message": "Копіювати"
+   },
+   "generator@exclude": {
+      "description": "Exclude characters button label",
+      "message": "Виключити"
+   },
+   "generator@include": {
+      "description": "Include characters button label",
+      "message": "Додати"
+   },
+   "generator@quickOptions": {
+      "description": "Quick options section title",
+      "message": "Швидкі налаштування"
+   },
+   "generator@quickOptions__hint": {
+      "description": "Quick options hint",
+      "message": "Ці налаштування не будуть збережені"
+   },
+   "generator@refresh": {
+      "description": "Generate new password button label",
+      "message": "Згенерувати новий"
+   },
+   "generator@reset": {
+      "description": "Reset button label",
+      "message": "Скинути"
+   },
+   "name": {
+      "description": "Extension name",
+      "message": "Генератор паролів"
+   },
+   "settings@ambiguous": {
+      "description": "Ambiguous characters character set label in settings section",
+      "message": "Особливі"
+   },
+   "settings@exclude": {
+      "description": "Exclude character sets section",
+      "message": "Виключити символи"
+   },
+   "settings@include": {
+      "description": "Include character sets section",
+      "message": "Додати символи"
+   },
+   "settings@length": {
+      "description": "Password length label in settings section",
+      "message": "Довжина пароля за замовчуванням"
+   },
+   "settings@lengthRange": {
+      "description": "Quick adjustment length range label in settings section",
+      "message": "Діапазон довжини для швидких налаштувань"
+   },
+   "settings@length__hint": {
+      "description": "Password length recommendatin in settings section",
+      "message": "Рекомендована довжина: 8–16"
+   },
+   "settings@lowercase": {
+      "description": "Lowercase character set label in settings section",
+      "message": "Малі"
+   },
+   "settings@numeric": {
+      "description": "Numbers character set label in settings section",
+      "message": "Числові"
+   },
+   "settings@repeating": {
+      "description": "Repeating characters character set label in settings section",
+      "message": "Повторювані"
+   },
+   "settings@repeating__hint": {
+      "description": "Repeating characters character set hint in settings section",
+      "message": "Кожен символ пароля буде унікальним"
+   },
+   "settings@similar": {
+      "description": "Similar characters character set label in settings section",
+      "message": "Схожі"
+   },
+   "settings@special": {
+      "description": "Special characters character set label in settings section",
+      "message": "Спеціальні"
+   },
+   "settings@title": {
+      "description": "Settings section title",
+      "message": "Налаштування"
+   },
+   "settings@uppercase": {
+      "description": "Uppercase character set label in settings section",
+      "message": "Великі"
+   }
+}

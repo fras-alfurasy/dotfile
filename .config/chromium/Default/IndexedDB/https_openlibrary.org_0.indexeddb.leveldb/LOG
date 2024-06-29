@@ -1,0 +1,6 @@
+2023/02/01-18:07:48.184 38ca5 Creating DB /home/fras/.config/chromium/Default/IndexedDB/https_openlibrary.org_0.indexeddb.leveldb since it was missing.
+2023/02/01-18:07:48.209 38ca5 Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_openlibrary.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/01-18:08:21.552 38ca3 Level-0 table #5: started
+2023/02/01-18:08:21.555 38ca3 Level-0 table #5: 7387 bytes OK
+2023/02/01-18:08:21.557 38ca3 Delete type=0 #3
+2023/02/01-18:08:21.557 38ca3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

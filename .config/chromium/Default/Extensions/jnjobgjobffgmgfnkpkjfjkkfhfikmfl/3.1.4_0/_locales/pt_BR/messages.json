@@ -1,0 +1,154 @@
+{
+   "about@changelog": {
+      "description": "Changelog link in about section",
+      "message": "Registro de alterações"
+   },
+   "about@developedBy": {
+      "description": "Developer credits in about section",
+      "message": "Desenvolvido por Eugênio Fox"
+   },
+   "about@feedback": {
+      "description": "Feedback link in about section",
+      "message": "Enviar comentários"
+   },
+   "about@licensedUnder": {
+      "description": "License info in about section",
+      "message": "Licenciado sob"
+   },
+   "about@mitLicense": {
+      "description": "License name",
+      "message": "Licença MIT"
+   },
+   "about@sourceCode": {
+      "description": "Source code link in about section",
+      "message": "Código fonte"
+   },
+   "about@sponsor": {
+      "description": "Buy me a coffee donation link in about section",
+      "message": "Pague um café"
+   },
+   "about@title": {
+      "description": "About section title",
+      "message": "Sobre"
+   },
+   "about@translationCta": {
+      "description": "Translation CTA in about section",
+      "message": "Encontrou um erro ou quer uma tradução no seu idioma?"
+   },
+   "about@translationCtaButton": {
+      "description": "Translation CTA button in about section",
+      "message": "Comece aqui"
+   },
+   "about@website": {
+      "description": "Website link in about section",
+      "message": "Meu site"
+   },
+   "author": {
+      "description": "Extension author",
+      "message": "Eugênio Fox"
+   },
+   "description": {
+      "description": "Extension description",
+      "message": "A extensão do gerador de senhas permite gerar facilmente uma senha longa e segura em um clique"
+   },
+   "error@moreCharacters": {
+      "description": "Error message when password length is less than 4 characters",
+      "message": "O comprimento da senha deve ter pelo menos 4 caracteres"
+   },
+   "error@noCharacters": {
+      "description": "Error message when no character set is selected",
+      "message": "É necessário selecionar pelo menos um conjunto de caracteres"
+   },
+   "error@tooLong": {
+      "description": "Error message when password length is too long to generate password with unique characters",
+      "message": "O comprimento é muito longo para gerar uma senha com caracteres únicos"
+   },
+   "generator@copy": {
+      "description": "Copy button label",
+      "message": "Copiar"
+   },
+   "generator@exclude": {
+      "description": "Exclude characters button label",
+      "message": "Excluir"
+   },
+   "generator@include": {
+      "description": "Include characters button label",
+      "message": "Incluir"
+   },
+   "generator@quickOptions": {
+      "description": "Quick options section title",
+      "message": "Ajustes rápidos"
+   },
+   "generator@quickOptions__hint": {
+      "description": "Quick options hint",
+      "message": "Esses ajustes não serão salvos"
+   },
+   "generator@refresh": {
+      "description": "Generate new password button label",
+      "message": "Gerar nova"
+   },
+   "generator@reset": {
+      "description": "Reset button label",
+      "message": "Redefinir"
+   },
+   "name": {
+      "description": "Extension name",
+      "message": "Gerador de Senhas"
+   },
+   "settings@ambiguous": {
+      "description": "Ambiguous characters character set label in settings section",
+      "message": "Ambíguos"
+   },
+   "settings@exclude": {
+      "description": "Exclude character sets section",
+      "message": "Excluir símbolos"
+   },
+   "settings@include": {
+      "description": "Include character sets section",
+      "message": "Incluir símbolos"
+   },
+   "settings@length": {
+      "description": "Password length label in settings section",
+      "message": "Comprimento padrão da senha"
+   },
+   "settings@lengthRange": {
+      "description": "Quick adjustment length range label in settings section",
+      "message": "Intervalo do comprimento de ajuste rápido"
+   },
+   "settings@length__hint": {
+      "description": "Password length recommendatin in settings section",
+      "message": "Comprimento recomendado: 8–16"
+   },
+   "settings@lowercase": {
+      "description": "Lowercase character set label in settings section",
+      "message": "Minúsculos"
+   },
+   "settings@numeric": {
+      "description": "Numbers character set label in settings section",
+      "message": "Numéricos"
+   },
+   "settings@repeating": {
+      "description": "Repeating characters character set label in settings section",
+      "message": "Repetidos"
+   },
+   "settings@repeating__hint": {
+      "description": "Repeating characters character set hint in settings section",
+      "message": "Cada caractere na senha será único"
+   },
+   "settings@similar": {
+      "description": "Similar characters character set label in settings section",
+      "message": "Semelhantes"
+   },
+   "settings@special": {
+      "description": "Special characters character set label in settings section",
+      "message": "Especiais"
+   },
+   "settings@title": {
+      "description": "Settings section title",
+      "message": "Configurações"
+   },
+   "settings@uppercase": {
+      "description": "Uppercase character set label in settings section",
+      "message": "Maiúsculos"
+   }
+}

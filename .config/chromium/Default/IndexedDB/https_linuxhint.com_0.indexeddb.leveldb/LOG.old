@@ -1,0 +1,15 @@
+2023/02/23-20:05:54.452 74f1c Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/23-20:05:54.453 74f1c Recovering log #4
+2023/02/23-20:05:54.453 74f1c Reusing old log /home/fras/.config/chromium/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/000004.log 
+2023/02/23-20:05:58.488 74f1c Level-0 table #8: started
+2023/02/23-20:05:58.491 74f1c Level-0 table #8: 3154 bytes OK
+2023/02/23-20:05:58.494 74f1c Delete type=0 #4
+2023/02/23-20:05:58.494 74f1c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/02/23-20:05:58.494 74f1c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01\x0a\x00l\x00a\x00s\x00t\x00-\x00t\x00h\x00e\x00m\x00e' @ 233 : 1
+2023/02/23-20:05:58.494 74f1c Compacting 1@1 + 1@2 files
+2023/02/23-20:05:58.497 74f1c Generated table #9@1: 69 keys, 2385 bytes
+2023/02/23-20:05:58.497 74f1c Compacted 1@1 + 1@2 files => 2385 bytes
+2023/02/23-20:05:58.499 74f1c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/23-20:05:58.499 74f1c Delete type=2 #5
+2023/02/23-20:05:58.499 74f1c Delete type=2 #8
+2023/02/23-20:05:58.500 74f1c Manual compaction at level-1 from '\x00\x01\x03\x03\x01\x0a\x00l\x00a\x00s\x00t\x00-\x00t\x00h\x00e\x00m\x00e' @ 233 : 1 .. (end); will stop at (end)

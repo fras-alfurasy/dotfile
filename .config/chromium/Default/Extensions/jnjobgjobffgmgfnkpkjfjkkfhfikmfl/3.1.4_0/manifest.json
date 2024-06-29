@@ -1,0 +1,22 @@
+{
+   "action": {
+      "default_popup": "src/popup.html"
+   },
+   "author": "__MSG_author__",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "differential_fingerprint": "1.19a20e0a614fb9682d510257f2c945288aa5b6ce044d6720f1e2150ea9e3bdad",
+   "homepage_url": "https://github.com/xfox111/PasswordGeneratorExtension",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4wWdRmwoFfQ5Q+ISgAKnw0geZXE5ejLetri8i6kWYDBySR85/KCX1h2KKd91dfA1Pa5P7HSZdlR2j+FsQXWMuo7KNBm5iW2CcmGSvIb/6qNRonGUStxmkPj9kTFzzvMDzY9PwqmrV4KsVvzmCfruzvcHEnSIFPo9ALf59/1vl4kHTvu+tJQTwMjs/0LRAgdWRh6VjF90QYT5FZORPz4K+2r3BSA1iK0PqUIMmXD8ICLFYvoItV0but6bIG2yqVb9eLpyUggHFZjDznSiXJ7uSA98J3MHllc1iXIi31JGI0TPRcDdUkK81u1qvJ91QsLvZk9e8jSbvsWmunWgCX0NHwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1.4"
+}

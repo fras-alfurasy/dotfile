@@ -1,0 +1,391 @@
+{
+   "checksum": "aa4fb3d7d927dece3d98e5f6f290fc95",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13318785650072146",
+            "date_last_used": "0",
+            "guid": "9eb834b8-5781-454b-ab48-ef1162c5ffce",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - ray-x/go.nvim: Modern Go plugin for Neovim, based on gopls, treesitter AST, Dap and a variety of go tools.",
+            "type": "url",
+            "url": "https://github.com/ray-x/go.nvim"
+         }, {
+            "date_added": "13318794757498736",
+            "date_last_used": "0",
+            "guid": "c9b69c91-1a90-4bd9-b7c9-103d5bb5a1bd",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Read user input in Go (Golang) [cheatsheet]",
+            "type": "url",
+            "url": "https://gosamples.dev/read-user-input/"
+         }, {
+            "date_added": "13319209657271960",
+            "date_last_used": "13319210777948932",
+            "guid": "da0ebf58-53c9-446d-9f1a-27cfba247a5c",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(14062) [Backend #5] Write Golang unit tests for database CRUD with random data - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=phHDfOHB2PU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE&index=5"
+         }, {
+            "children": [ {
+               "date_added": "13319658781906090",
+               "date_last_used": "0",
+               "guid": "d26b150b-4a2c-4e01-b6da-1d690dae1396",
+               "id": "22",
+               "name": "Kerio Control Statistics",
+               "type": "url",
+               "url": "https://172.20.10.1/#myAccount_status_all"
+            }, {
+               "date_added": "13319658781906428",
+               "date_last_used": "0",
+               "guid": "aad45eba-441c-4348-8634-ca24e3d1b6e2",
+               "id": "23",
+               "name": "gob package - encoding/gob - Go Packages",
+               "type": "url",
+               "url": "https://pkg.go.dev/encoding/gob#pkg-functions"
+            }, {
+               "date_added": "13319658781906606",
+               "date_last_used": "0",
+               "guid": "e158c853-876a-4de1-af02-9d2a91beff98",
+               "id": "24",
+               "name": "(180) YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13319658781906795",
+               "date_last_used": "13319704870809080",
+               "guid": "05bcdd49-20c5-4ac0-8879-b790895926f3",
+               "id": "25",
+               "name": "(153) Go REST API With GIN & GORM | Postgres | Docker - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ZI6HaPKHYsg"
+            }, {
+               "date_added": "13319658781907016",
+               "date_last_used": "0",
+               "guid": "89164e0f-8c43-41d4-8c51-eb2d04709282",
+               "id": "26",
+               "name": "Search Results | Gin Web Framework",
+               "type": "url",
+               "url": "https://gin-gonic.com/search/?q=gin.string"
+            }, {
+               "date_added": "13319658781907321",
+               "date_last_used": "0",
+               "guid": "6cafce60-fa5a-45ad-bde2-dab4a4b67c5a",
+               "id": "27",
+               "name": "Connecting to a Database | GORM - The fantastic ORM library for Golang, aims to be developer friendly.",
+               "type": "url",
+               "url": "https://gorm.io/docs/connecting_to_the_database.html#PostgreSQL"
+            }, {
+               "date_added": "13319658781907496",
+               "date_last_used": "0",
+               "guid": "10e7d58e-4446-4c11-95dc-272dd9383f8c",
+               "id": "28",
+               "name": "fatih/vim-go: Go development plugin for Vim",
+               "type": "url",
+               "url": "https://github.com/fatih/vim-go"
+            }, {
+               "date_added": "13319658781907626",
+               "date_last_used": "0",
+               "guid": "adbefcf7-ec5f-4dfd-af17-1a40466067a7",
+               "id": "29",
+               "name": "how to connect to ethernet in arch linux - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=how+to+connect+to+ethernet+in+arch+linux&oq=how+to+connect+to+ethernet+in+arch+linux&aqs=chrome..69i57j0i22i30j0i390l3.11127j0j7&sourceid=chrome&ie=UTF-8"
+            } ],
+            "date_added": "13319658781905269",
+            "date_last_used": "0",
+            "date_modified": "13319658781907626",
+            "guid": "75333b44-438f-4ea9-bcc0-e8b22d79bbc3",
+            "id": "21",
+            "name": "gin",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13319800690817009",
+               "date_last_used": "13319801009168383",
+               "guid": "6418ae1a-d18a-4ce8-9cc7-8b7e13dedc3f",
+               "id": "32",
+               "name": "(163) Quick Tutorial for Tor on Arch Linux [Easy Steps!] - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=KTfWu0GFKTc"
+            }, {
+               "date_added": "13319800690817193",
+               "date_last_used": "13319801009126399",
+               "guid": "b32dbe5f-498f-4195-8d7e-029df33b3526",
+               "id": "33",
+               "name": "stat: cannot statx '/var/lib/tor/control_auth_cookie': Permission denied in arch linusx - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=stat%3A+cannot+statx+%27%2Fvar%2Flib%2Ftor%2Fcontrol_auth_cookie%27%3A+Permission+denied+in+arch+linusx&oq=stat%3A+cannot+statx+%27%2Fvar%2Flib%2Ftor%2Fcontrol_auth_cookie%27%3A+Permission+denied+in+arch+linusx&aqs=chrome..69i57j69i58.5222j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13319800690817316",
+               "date_last_used": "13319801004519596",
+               "guid": "456724ae-e6ca-46fa-ba6f-5deb68aa3ed3",
+               "id": "34",
+               "name": "google cloud shell - /var/lib/tor cannot be read: Permission denied or Couldn't create private data directory - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/62605111/var-lib-tor-cannot-be-read-permission-denied-or-couldnt-create-private-data-d"
+            } ],
+            "date_added": "13319800690816180",
+            "date_last_used": "0",
+            "date_modified": "13319800690817316",
+            "guid": "bf0ac01f-ffe7-4f12-8a59-57490f712ca3",
+            "id": "31",
+            "name": "tor",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13320060777306542",
+               "date_last_used": "13320060864354249",
+               "guid": "095ba5f1-d873-4ba3-85c0-b4829c624554",
+               "id": "50",
+               "name": "Kerio Control Statistics",
+               "type": "url",
+               "url": "https://172.20.10.1/#myAccount_status_all"
+            }, {
+               "date_added": "13320060777306922",
+               "date_last_used": "13320060869655361",
+               "guid": "fb23fb0f-b8e2-449f-8ee2-af34230b75ab",
+               "id": "51",
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13320060777307172",
+               "date_last_used": "13320060869635105",
+               "guid": "eaedfa35-5bd9-4e66-bd89-8883bb09deff",
+               "id": "52",
+               "name": "(178) go-micro - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=go-micro"
+            }, {
+               "date_added": "13320060777307393",
+               "date_last_used": "13320060869707980",
+               "guid": "c358e7ec-ca42-4d50-9c21-072af5d502a3",
+               "id": "53",
+               "name": "(178) go-zero - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=go-zero"
+            }, {
+               "date_added": "13320060777307603",
+               "date_last_used": "13320060869699868",
+               "guid": "f873e081-856a-47f7-b73b-b1e6296a6437",
+               "id": "54",
+               "name": "(178) Go-Zero - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=KgtCuoxcPU0"
+            }, {
+               "date_added": "13320060777307821",
+               "date_last_used": "13320060864429655",
+               "guid": "2dbb4d73-979f-4b56-9cb4-e9b85048ee77",
+               "id": "55",
+               "name": "best example for microservices in golang - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=best+example+for+microservices+in+golang&oq=&aqs=chrome.0.35i39i362l8.2219783j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13320060777308105",
+               "date_last_used": "13320060869450224",
+               "guid": "c86e8e44-4a7b-496b-9880-bff0876f2f59",
+               "id": "56",
+               "name": "Complete Golang Microservice example | by Suraj Batuwana | Medium",
+               "type": "url",
+               "url": "https://suraj-batuwana.medium.com/complete-golang-microservice-example-5857d65eb80f"
+            }, {
+               "date_added": "13320060777308356",
+               "date_last_used": "13320060864600607",
+               "guid": "8c312849-7bfb-400f-8279-a89f079afaa1",
+               "id": "57",
+               "name": "golang microservices framework - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=golang+microservices+framework&oq=go+lang+microservices+framework&aqs=chrome.1.69i57j0i13i512l2j0i22i30l5j0i390l2.15642j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13320060777308620",
+               "date_last_used": "13320060875379028",
+               "guid": "49402ab0-4bdb-4980-8ee0-04d01aa924ea",
+               "id": "58",
+               "name": "What is the best microservice framework in Go? : golang",
+               "type": "url",
+               "url": "https://www.reddit.com/r/golang/comments/jnv4bd/what_is_the_best_microservice_framework_in_go/"
+            }, {
+               "date_added": "13320060777308866",
+               "date_last_used": "13320060875225279",
+               "guid": "dd5bae32-026d-4ddf-8944-24b5ceeb417a",
+               "id": "59",
+               "name": "Goctl Installation | go-zero",
+               "type": "url",
+               "url": "https://go-zero.dev/docs/prepare/goctl-install"
+            }, {
+               "date_added": "13320060777309098",
+               "date_last_used": "13320060874980640",
+               "guid": "e3f6e3f3-59a9-4d6b-9021-a261eb54a745",
+               "id": "60",
+               "name": "Goctl | go-zero",
+               "type": "url",
+               "url": "https://go-zero.dev/docs/goctl/goctl"
+            }, {
+               "date_added": "13320060777309308",
+               "date_last_used": "13320060864653483",
+               "guid": "93fcaa4a-f434-4f9a-82a7-671e1844ab7c",
+               "id": "61",
+               "name": "go-micro - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=go-micro&oq=go-micro&aqs=chrome..69i57j69i59.2897j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13320060777309551",
+               "date_last_used": "13320060875133611",
+               "guid": "38863a04-4747-4eeb-9e53-558557bdc861",
+               "id": "62",
+               "name": "go-micro/dashboard: Dashboard for go-micro, used to monitor and debug micro system build by go-micro.",
+               "type": "url",
+               "url": "https://github.com/go-micro/dashboard"
+            }, {
+               "date_added": "13320060777309791",
+               "date_last_used": "13320060864511250",
+               "guid": "fa7195c2-38f5-4db4-a599-2c3bcf7a0f3e",
+               "id": "63",
+               "name": "how to make arch linux authenticate using your fingerprint - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=how+to+make+arch+linux+authenticate+using+your+fingerprint&sxsrf=AJOqlzWKjlxg-SaHfwPdNb-P5ewK28eJYg:1675585286950&source=lnms&tbm=vid&sa=X&ved=2ahUKEwj96sbO-f38AhUhTaQEHYneByUQ_AUoAXoECAEQAw&biw=1920&bih=1007&dpr=1#fpstate=ive&vld=cid:a231041f,vid:4rWYXc4F-jU"
+            }, {
+               "date_added": "13320060777310163",
+               "date_last_used": "13320060869747659",
+               "guid": "084fa411-b0aa-433d-b86d-3e04e70dd0ec",
+               "id": "64",
+               "name": "(178) Vim vs Vscode: Will You Be More Productive With Vim? - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ETJq-Tj94WI"
+            }, {
+               "date_added": "13320060777310422",
+               "date_last_used": "13320060874771062",
+               "guid": "d6052d54-6234-47e2-89d9-991705213d5b",
+               "id": "65",
+               "name": "fprint - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/fprint"
+            }, {
+               "date_added": "13320060777310637",
+               "date_last_used": "13320060879679207",
+               "guid": "2ae225a6-a408-4140-8b48-866c2bd0382b",
+               "id": "66",
+               "name": "How to check system logs on Linux",
+               "type": "url",
+               "url": "https://www.addictivetips.com/ubuntu-linux-tips/check-system-logs-on-linux/"
+            }, {
+               "date_added": "13320060777310924",
+               "date_last_used": "13320060864319258",
+               "guid": "4656955b-e157-4c76-bb21-91e74b217e60",
+               "id": "67",
+               "name": "Goctl | go-zero",
+               "type": "url",
+               "url": "https://go-zero.dev/docs/goctl/goctl/"
+            }, {
+               "date_added": "13320060777311186",
+               "date_last_used": "0",
+               "guid": "2784c16a-f41c-4945-8745-b1ac23607fdb",
+               "id": "68",
+               "name": "New Tab",
+               "type": "url",
+               "url": "chrome://newtab/"
+            } ],
+            "date_added": "13320060777305037",
+            "date_last_used": "0",
+            "date_modified": "13320060777311186",
+            "guid": "7d6d02dc-db1a-4aa0-9333-a7fcba3a0d79",
+            "id": "49",
+            "name": "Micro",
+            "type": "folder"
+         }, {
+            "date_added": "13320269840338086",
+            "date_last_used": "0",
+            "guid": "e6f3da59-16a1-4ab9-8f8e-718a7cb73b0a",
+            "id": "70",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(231) How To Build A Complete JSON API In Golang (JWT, Postgres, and Docker) Part 2 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=gJx6gODwOwM"
+         }, {
+            "date_added": "13320269847423581",
+            "date_last_used": "13346507652486608",
+            "guid": "e7f67b1c-e6f5-44d7-89dc-238f648afcb8",
+            "id": "71",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(55) Discord | #💬general | anthonygg",
+            "type": "url",
+            "url": "https://discord.com/channels/1025692014903316490/1026141035874766868"
+         }, {
+            "date_added": "13320592318345148",
+            "date_last_used": "13320592439165541",
+            "guid": "857f3cec-bbfc-4ac9-a62e-4489ae90a0a5",
+            "id": "73",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Calmcode - gin: Intro to Gin",
+            "type": "url",
+            "url": "https://calmcode.io/gin/intro-to-gin.html"
+         }, {
+            "date_added": "13320777599497490",
+            "date_last_used": "0",
+            "guid": "7bdd0fb4-df20-4b36-a8be-09c4d14bd03c",
+            "id": "75",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(372) Enjoy Whiskey Blues Music - The Best Slow Blues /Rock Ballads - Fantastic Electric Guitar Blues 2 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=inlMyVNJptM"
+         }, {
+            "date_added": "13321478698968700",
+            "date_last_used": "13321478821828675",
+            "guid": "9eef1a79-334f-4377-8e42-32d169ca2564",
+            "id": "77",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SlimeVR Full-Body Tracker | Crowd Supply",
+            "type": "url",
+            "url": "https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker"
+         } ],
+         "date_added": "13318778477112391",
+         "date_last_used": "0",
+         "date_modified": "13322074382347445",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13318778477112404",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13318778477112406",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

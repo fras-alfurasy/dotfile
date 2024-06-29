@@ -1,0 +1,6 @@
+2023/02/20-12:54:01.473 fd9a Creating DB /home/fras/.config/chromium/Default/IndexedDB/https_www.netsolutions.com_0.indexeddb.leveldb since it was missing.
+2023/02/20-12:54:01.483 fd9a Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_www.netsolutions.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/20-12:54:35.649 fd9a Level-0 table #5: started
+2023/02/20-12:54:35.651 fd9a Level-0 table #5: 1256 bytes OK
+2023/02/20-12:54:35.659 fd9a Delete type=0 #3
+2023/02/20-12:54:35.659 fd9a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

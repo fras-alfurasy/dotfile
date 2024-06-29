@@ -1,0 +1,6 @@
+2023/01/31-20:20:46.670 131c5 Creating DB /home/fras/.config/chromium/Default/IndexedDB/https_www.securew2.com_0.indexeddb.leveldb since it was missing.
+2023/01/31-20:20:46.676 131c5 Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_www.securew2.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/31-20:20:54.563 13276 Level-0 table #5: started
+2023/01/31-20:20:54.572 13276 Level-0 table #5: 567 bytes OK
+2023/01/31-20:20:54.574 13276 Delete type=0 #3
+2023/01/31-20:20:54.574 13276 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

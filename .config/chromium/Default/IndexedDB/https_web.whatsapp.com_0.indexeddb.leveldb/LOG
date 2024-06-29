@@ -1,0 +1,20 @@
+2023/02/23-06:07:26.557 69de Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/23-06:07:26.557 69de Recovering log #81
+2023/02/23-06:07:26.574 69de Reusing old log /home/fras/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000081.log 
+2023/02/23-06:09:05.941 661b Level-0 table #90: started
+2023/02/23-06:09:05.987 661b Level-0 table #90: 962259 bytes OK
+2023/02/23-06:09:05.990 661b Delete type=0 #81
+2023/02/23-06:09:26.350 6082 Compacting 1@1 + 5@2 files
+2023/02/23-06:09:26.439 6082 Generated table #91@1: 36420 keys, 2197570 bytes
+2023/02/23-06:09:26.482 6082 Generated table #92@1: 6774 keys, 2165194 bytes
+2023/02/23-06:09:26.541 6082 Generated table #93@1: 23467 keys, 2175697 bytes
+2023/02/23-06:09:26.628 6082 Generated table #94@1: 106920 keys, 2259727 bytes
+2023/02/23-06:09:26.697 6082 Generated table #95@1: 26373 keys, 561290 bytes
+2023/02/23-06:09:26.697 6082 Compacted 1@1 + 5@2 files => 9359478 bytes
+2023/02/23-06:09:26.721 6082 compacted to: files[ 0 0 5 0 0 0 0 ]
+2023/02/23-06:09:26.722 6082 Delete type=2 #84
+2023/02/23-06:09:26.722 6082 Delete type=2 #83
+2023/02/23-06:09:26.722 6082 Delete type=2 #85
+2023/02/23-06:09:26.722 6082 Delete type=2 #86
+2023/02/23-06:09:26.722 6082 Delete type=2 #90
+2023/02/23-06:09:26.722 6082 Delete type=2 #87

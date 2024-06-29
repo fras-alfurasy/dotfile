@@ -1,0 +1,247 @@
+" vim: filetype=vifm :
+
+set vicmd=nvim
+set grepprg="ack -H -r %i %a %s"
+set trash
+set history=100
+set followlinks
+set fastrun
+set sortnumbers
+set undolevels=100
+set novimhelp
+set norunexec
+set noiec
+colorscheme solarized-dark
+set fusehome=/tmp/vifm_FUSE
+set timefmt="%a %F %T"
+set wildmenu
+set ignorecase
+set smartcase
+set hlsearch
+set incsearch
+set scrolloff=3
+set slowfs=curlftpfs
+set statusline="%t%= [%A %u:%g %s %d]"
+set tabstop=4
+set dotdirs=rootparent
+set syscalls
+
+" What should be saved automatically between vifm runs
+" Like in previous versions of vifm
+" set vifminfo=options,filetypes,commands,bookmarks,dhistory,state,cs
+" Like in vi
+set vifminfo=dhistory,savedirs,chistory,state,tui,shistory
+  \,phistory,fhistory,dirstack,registers,bookmarks
+
+" Sample mappings
+nmap s :shell<cr>
+nmap S :sort<cr>
+nmap w :view<cr>
+nmap cd :cd<space>
+
+" Open file in the background using its default program
+nmap gb :file &<cr>l
+
+" Yank current directory path into the clipboard
+nmap yd :!echo %d | xclip %i<cr>
+
+" Yank current file path into the clipboard
+nmap yf :!echo %c:p | xclip %i<cr>
+
+" Mappings for faster renaming
+nmap I cw<c-a>
+nmap cc cw<c-u>
+nmap A cw<c-w>
+
+" Opening console in current directory
+nmap \t :!xterm &<cr>
+
+" Opening vim to edit .vifmrc
+nmap \c :execute ':!vim $MYVIFMRC' | restart<cr>
+
+" Toggle wrap setting on ,w key
+nmap \w :set wrap!<cr>
+
+" Example of standard two-panel file managers mappings
+nmap <f3> :!less %f<cr>
+nmap <f4> :edit<cr>
+nmap <f5> :copy<cr>
+nmap <f6> :move<cr>
+nmap <f7> :mkdir<space>""<left>
+nmap <f8> :delete<cr>
+
+" External commands
+nmap ! :!
+nmap @ :!<space>%f<left><left><left>
+
+" Single stroke to access command line
+map ; :
+
+" Tagging
+nmap <space> tj
+
+" Resize
+nmap < <c-w><
+nmap > <c-w>>
+
+" Single stroke to quit
+map Q :q<cr>
+
+" Print  line  number  in front of each file name
+set number
+set numberwidth=3
+
+set title
+
+fileviewer *.pdf
+    \ vifmimg pdf %px %py %pw %ph %c
+    \ %pc
+    \ vifmimg clear
+
+fileviewer *.epub
+    \ vifmimg epub %px %py %pw %ph %c
+    \ %pc
+    \ vifmimg clear
+
+fileviewer <video/*>
+    \ vifmimg video %px %py %pw %ph %c
+    \ %pc
+    \ vifmimg clear
+
+fileviewer <image/*>
+    \ vifmimg draw %px %py %pw %ph %c
+    \ %pc
+    \ vifmimg clear
+
+fileviewer <audio/*>
+    \ vifmimg audio %px %py %pw %ph %c
+    \ %pc
+    \ vifmimg clear
+
+fileviewer <font/*>
+    \ vifmimg font %px %py %pw %ph %c
+    \ %pc
+    \ vifmimg clear
+
+
+" commands
+" %a is replaced with the user arguments.
+" %c the current file under the cursor.
+" %C the current file under the cursor in the other directory.
+" %f the current selected file, or files.
+" %F the current selected file, or files in the other directory.
+" %b same as %f %F.
+" %d the current directory name.
+" %D the other window directory name.
+" %m run the command in a menu window
+command df df -h %m 2> /dev/null
+command diff vim -d %f %F
+command zip zip -r %f.zip %f
+command run !! ./%f
+command make !!make
+command vgrep vim "+grep %a"
+
+" marks
+mark h ~/
+mark t ~/.vifm/Trash/
+mark d ~/dl/
+mark v ~/videos/
+mark p ~/projects/
+mark P ~/photos/
+mark a ~/apps/
+mark m /media/
+mark M /run/media/void/
+
+" Pdf, PostScript & Djvu
+filextype *.pdf,*.ps,*.djvu
+  \ zathura %f %i &,
+  \ open %f &,
+fileview *.pdf
+  \ pdftotext -nopgbrk %c -
+
+" Audio
+filetype *.wav,*.mp3,*.flac,*.ogg,*.oga,*.m4a,*.wma,*.aac,*.3gp,*.opus,*.wv
+  \ mpv %f,
+fileview *.wav,*.mp3,*.flac,*.ogg,*.oga,*.m4a,*.wma,*.aac,*.3gp,*.opus,*.wv
+  \ mediainfo
+
+" Video
+filextype *.avi,*.mp4,*.wmv,*.dat,*.ogv,*.mkv,*.mpg,*.vob,*.flv,*.webm,*.mts,*.m2ts,*.rm,*.mov
+  \ mpv %f %i &,
+fileview *.avi,*.mp4,*.wmv,*.dat,*.ogv,*.mkv,*.mpg,*.vob,*.flv,*.webm,*.mts,*.m2ts,*.rm,*.mov
+  \ mediainfo
+
+" Web
+filetype *.html,*.htm
+  \ dwb %f %i &,
+fileview *.html,*.htm
+  \ elinks --dump
+
+" Object
+filetype *.o
+  \ {List Symbols} nm %f | less
+
+" Image
+filextype *.gif
+  \ {Loop} mpv --loop=inf %f %i &,
+
+filextype *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm,*.svg,*.ico
+  \ feh %f &,
+fileview *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm,*.svg,*.ico
+  \ identify %f
+
+" MD5
+filetype *.md5
+  \ {Check MD5 hash sum} md5sum -c %f,
+
+" Archive
+filetype *.tar.gz,*.tgz,*.tar.bz,*.tbz,*.tar.bz2,*.tbz2,*.tar.Z,*.tZ,*.tar.lzo,*.tzo
+  \,*.tar.lz,*.tlz,*.tar.xz,*.txz,*.tar.7z,*.t7z,*.tar,*.zip,*.jar,*.war,*.rar
+  \,*.lha,*.lzh,*.7z,*.alz,*.ace,*.a,*.arj,*.arc,*.rpm,*.deb,*.cab,*.gz,*.bz,*.bz2
+  \,*.Z,*.lzma,*.lzo,*.lz,*.xz,*.rz,*.lrz,*.7z,*.cpio
+  \ {View contents} als %f | less,
+  \ {Extract here} aunpack %f,
+
+fileview *.tar.gz,*.tgz,*.tar.bz,*.tbz,*.tar.bz2,*.tbz2,*.tar.Z,*.tZ,*.tar.lzo,*.tzo
+  \,*.tar.lz,*.tlz,*.tar.xz,*.txz,*.tar.7z,*.t7z,*.tar,*.zip,*.jar,*.war,*.rar
+  \,*.lha,*.lzh,*.7z,*.alz,*.ace,*.a,*.arj,*.arc,*.rpm,*.deb,*.cab,*.gz,*.bz,*.bz2
+  \,*.Z,*.lzma,*.lzo,*.lz,*.xz,*.rz,*.lrz,*.7z,*.cpio
+  \ als %f
+
+" IsoMount
+filetype *.iso
+  \ {Mount with fuseiso}
+  \ FUSE_MOUNT|fuseiso %SOURCE_FILE %DESTINATION_DIR,
+
+" SshMount
+filetype *.ssh
+  \ {Mount with sshfs}
+  \ FUSE_MOUNT2|sshfs %PARAM %DESTINATION_DIR,
+
+" FtpMount
+filetype *.ftp
+  \ {Mount with curlftpfs}
+  \ FUSE_MOUNT2|curlftpfs -o ftp_port=-,,disable_eprt %PARAM %DESTINATION_DIR,
+
+" Office files
+filextype *.doc,*.docx,*.xls,*.xlsx
+  \ libreoffice %f &
+fileview *.docx
+  \ docx2txt.pl %f -
+
+" Qt projects
+filextype *.pro
+  \ qtcreator %f &
+
+" Torrents
+fileview *.torrent
+  \ aria2c -S
+
+" Directories
+filextype */
+"  \ {View in thunar} Thunar %f &,
+fileview .*/,*/ tree -FL 1 %f
+
+" All other files get free syntax highlighting
+fileview *
+  \ highlight --out-format=ansi --force -qWJ %pw -t 2 %c

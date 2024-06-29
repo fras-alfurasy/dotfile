@@ -1,0 +1,6 @@
+2023/01/21-12:15:51.300 1d3b3 Creating DB /home/fras/.config/chromium/Default/IndexedDB/https_earth.google.com_0.indexeddb.leveldb since it was missing.
+2023/01/21-12:15:51.308 1d3b3 Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_earth.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/21-12:18:27.267 1bbc1 Level-0 table #5: started
+2023/01/21-12:18:27.269 1bbc1 Level-0 table #5: 858 bytes OK
+2023/01/21-12:18:27.271 1bbc1 Delete type=0 #3
+2023/01/21-12:18:27.271 1bbc1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,154 @@
+{
+   "about@changelog": {
+      "description": "Changelog link in about section",
+      "message": "Lista zmian"
+   },
+   "about@developedBy": {
+      "description": "Developer credits in about section",
+      "message": "Autor: Jewgienij Lis"
+   },
+   "about@feedback": {
+      "description": "Feedback link in about section",
+      "message": "Zostaw opinię"
+   },
+   "about@licensedUnder": {
+      "description": "License info in about section",
+      "message": ""
+   },
+   "about@mitLicense": {
+      "description": "License name",
+      "message": "Licencja MIT"
+   },
+   "about@sourceCode": {
+      "description": "Source code link in about section",
+      "message": "Kod źródłowy"
+   },
+   "about@sponsor": {
+      "description": "Buy me a coffee donation link in about section",
+      "message": "Wesprzyj"
+   },
+   "about@title": {
+      "description": "About section title",
+      "message": "O rozszerzeniu"
+   },
+   "about@translationCta": {
+      "description": "Translation CTA in about section",
+      "message": "Znalazłeś błąd lub potrzebujesz tłumaczenia na swój język?"
+   },
+   "about@translationCtaButton": {
+      "description": "Translation CTA button in about section",
+      "message": "Zacznij tutaj"
+   },
+   "about@website": {
+      "description": "Website link in about section",
+      "message": "Moja strona internetowa"
+   },
+   "author": {
+      "description": "manifest.json",
+      "message": "Jewgienij Lis"
+   },
+   "description": {
+      "description": "manifest.json",
+      "message": "Rozszerzenie, które pozwala na łatwe generowanie trudnych i bezpiecznych haseł w jednym kliknięciu"
+   },
+   "error@moreCharacters": {
+      "description": "Error message when password length is less than 4 characters",
+      "message": "Minimalna długość hasła to 4 znaki"
+   },
+   "error@noCharacters": {
+      "description": "Error message when no character set is selected",
+      "message": "Musisz wybrać przynajmniej jeden rodzaj znaków"
+   },
+   "error@tooLong": {
+      "description": "Error message when password length is too long to generate password with unique characters",
+      "message": "Wybrana długość jest zbyt duża, aby wygenerować unikalne znaki"
+   },
+   "generator@copy": {
+      "description": "Copy button label",
+      "message": "Kopiuj"
+   },
+   "generator@exclude": {
+      "description": "Exclude characters button label",
+      "message": "Wyklucz"
+   },
+   "generator@include": {
+      "description": "Include characters button label",
+      "message": "Dodaj"
+   },
+   "generator@quickOptions": {
+      "description": "Quick options section title",
+      "message": "Szybkie ustawienia"
+   },
+   "generator@quickOptions__hint": {
+      "description": "Quick options hint",
+      "message": "Te ustawienia nie zostaną zapisane"
+   },
+   "generator@refresh": {
+      "description": "Generate new password button label",
+      "message": "Wygeneruj nowe"
+   },
+   "generator@reset": {
+      "description": "Reset button label",
+      "message": "Resetuj"
+   },
+   "name": {
+      "description": "manifest.json",
+      "message": "Generator haseł"
+   },
+   "settings@ambiguous": {
+      "description": "Ambiguous characters character set label in settings section",
+      "message": "Niebezpieczne"
+   },
+   "settings@exclude": {
+      "description": "Exclude character sets section",
+      "message": "Wyklucz znaki"
+   },
+   "settings@include": {
+      "description": "Include character sets section",
+      "message": "Dodaj znaki"
+   },
+   "settings@length": {
+      "description": "Password length label in settings section",
+      "message": "Domyślna długość hasła"
+   },
+   "settings@lengthRange": {
+      "description": "Quick adjustment length range label in settings section",
+      "message": "Zakres długości dla szybkich ustawień"
+   },
+   "settings@length__hint": {
+      "description": "Password length recommendatin in settings section",
+      "message": "Zalecana długość: 8–16"
+   },
+   "settings@lowercase": {
+      "description": "Lowercase character set label in settings section",
+      "message": "Małe"
+   },
+   "settings@numeric": {
+      "description": "Numbers character set label in settings section",
+      "message": "Cyfry"
+   },
+   "settings@repeating": {
+      "description": "Repeating characters character set label in settings section",
+      "message": "Powtarzające się"
+   },
+   "settings@repeating__hint": {
+      "description": "Repeating characters character set hint in settings section",
+      "message": "Każdy znak hasła będzie unikalny"
+   },
+   "settings@similar": {
+      "description": "Similar characters character set label in settings section",
+      "message": "Podobne"
+   },
+   "settings@special": {
+      "description": "Special characters character set label in settings section",
+      "message": "Specjalne"
+   },
+   "settings@title": {
+      "description": "Settings section title",
+      "message": "Ustawienia"
+   },
+   "settings@uppercase": {
+      "description": "Uppercase character set label in settings section",
+      "message": "Wielkie"
+   }
+}

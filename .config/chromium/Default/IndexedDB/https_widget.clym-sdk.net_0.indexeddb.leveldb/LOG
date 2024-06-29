@@ -1,0 +1,7 @@
+2023/01/29-11:24:45.878 b508 Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_widget.clym-sdk.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/29-11:24:45.879 b508 Recovering log #3
+2023/01/29-11:24:45.882 b508 Reusing old log /home/fras/.config/chromium/Default/IndexedDB/https_widget.clym-sdk.net_0.indexeddb.leveldb/000003.log 
+2023/01/29-11:28:31.897 b508 Level-0 table #5: started
+2023/01/29-11:28:31.906 b508 Level-0 table #5: 48324 bytes OK
+2023/01/29-11:28:31.909 b508 Delete type=0 #3
+2023/01/29-11:28:31.909 b508 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

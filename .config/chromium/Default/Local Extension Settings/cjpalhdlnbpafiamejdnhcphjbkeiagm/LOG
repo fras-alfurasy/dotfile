@@ -1,0 +1,27 @@
+2024/06/10-12:59:18.821 c2c Reusing MANIFEST /home/fras/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/06/10-12:59:18.829 c2c Recovering log #522
+2024/06/10-12:59:18.853 c2c Reusing old log /home/fras/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000522.log 
+2024/06/10-12:59:35.333 c37 Level-0 table #526: started
+2024/06/10-12:59:35.372 c37 Level-0 table #526: 4639877 bytes OK
+2024/06/10-12:59:35.375 c37 Delete type=0 #522
+2024/06/10-12:59:48.176 c2c Level-0 table #528: started
+2024/06/10-12:59:48.315 c2c Level-0 table #528: 4170379 bytes OK
+2024/06/10-12:59:48.334 c2c Delete type=0 #525
+2024/06/10-12:59:48.335 c2c Compacting 4@0 + 4@1 files
+2024/06/10-12:59:48.411 c2c Generated table #529@0: 8 keys, 2475684 bytes
+2024/06/10-12:59:48.484 c2c Generated table #530@0: 12 keys, 2616831 bytes
+2024/06/10-12:59:48.553 c2c Generated table #531@0: 24 keys, 2179086 bytes
+2024/06/10-12:59:48.566 c2c Generated table #532@0: 13 keys, 53218 bytes
+2024/06/10-12:59:48.567 c2c Compacted 4@0 + 4@1 files => 7324819 bytes
+2024/06/10-12:59:48.575 c2c compacted to: files[ 0 4 1 0 0 0 0 ]
+2024/06/10-12:59:48.575 c2c Delete type=2 #528
+2024/06/10-12:59:48.576 c2c Delete type=2 #526
+2024/06/10-12:59:48.576 c2c Delete type=2 #520
+2024/06/10-12:59:48.576 c2c Delete type=2 #515
+2024/06/10-12:59:48.576 c2c Delete type=2 #523
+2024/06/10-12:59:48.576 c2c Delete type=2 #518
+2024/06/10-12:59:48.576 c2c Delete type=2 #516
+2024/06/10-12:59:48.576 c2c Delete type=2 #517
+2024/06/10-13:00:48.709 c2c Level-0 table #534: started
+2024/06/10-13:00:48.780 c2c Level-0 table #534: 5854040 bytes OK
+2024/06/10-13:00:48.783 c2c Delete type=0 #527

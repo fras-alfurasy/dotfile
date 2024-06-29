@@ -1,0 +1,7 @@
+2023/02/01-09:44:05.018 65e8 Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_blog.lumen.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/01-09:44:05.018 65e8 Recovering log #3
+2023/02/01-09:44:05.019 65e8 Reusing old log /home/fras/.config/chromium/Default/IndexedDB/https_blog.lumen.com_0.indexeddb.leveldb/000003.log 
+2023/02/01-12:02:11.098 ecc7 Level-0 table #5: started
+2023/02/01-12:02:11.107 ecc7 Level-0 table #5: 2195 bytes OK
+2023/02/01-12:02:11.110 ecc7 Delete type=0 #3
+2023/02/01-12:02:11.110 ecc7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

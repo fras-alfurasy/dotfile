@@ -1,0 +1,83 @@
+#!/bin/sh
+
+# key bindings
+sxhkd &
+
+# configure displays
+#configure_monitors
+autorandr horizontal
+
+# policykit
+lxpolkit &
+#/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 &
+
+# set the background
+feh --bg-fill photos/wallpapers/current.jpg \
+    --bg-fill photos/wallpapers/current.jpg
+
+# set font cache
+xset +fp /home/void/.local/share/fonts
+xset fp rehash
+
+# notificatoins manager
+dunst &
+
+# bar
+~/.config/polybar/docky/launch.sh &
+
+# compositor
+picom -b
+
+# set layouts
+setxkbmap -layout us,ar -option "grp:alt_shift_toggle"
+
+# red light shifter
+# redshift-gtk -l manual -l 55:37 &
+
+# swallow
+pgrep bspswallow || ~/.local/scripts/bspswallow &
+
+# screenshot app
+flameshot &
+
+# easyeffects
+easyeffects --gapplication-service -q &
+
+# autolock within 10 minutes
+xautolock -detectsleep              \
+          -time 15                  \
+          -locker "i3lock-fancy"    \
+          -notify 30                \
+          -notifier "notify-send -u critical -t 10000 -- 'LOCKING screen in 30 seconds'" & 
+
+# libinput
+xinput set-prop 13 339 1 &
+xinput set-prop 13 341 1 &
+xinput set-prop 13 347 1 &
+xinput set-prop 13 349 1 &
+
+# power manager
+upower &
+mate-power-manager &
+
+# network apps
+blueman-applet &
+blueman-tray &
+nm-applet &
+
+# udisk manager
+udiskie -t &
+
+# conky
+~/.config/conky/launch.sh
+
+# optimus manager
+#optimus-manager-qt
+
+# Fix java grey blobs
+export _JAVA_AWT_WM_NONREPARENTING=1
+export AWT_TOOLKIT=MToolkit
+wmname LG3D
+
+# Monitors
+#configure_monitors

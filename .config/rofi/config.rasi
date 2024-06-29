@@ -1,0 +1,15 @@
+configuration {
+    modi                : "window,ssh,drun";
+    font                : "Fira Code UI K 11";
+    show-icons          : true;
+    icon-theme          : "Papirus";
+    display-drun        : "Applications";
+    drun-display-format : "{name}";
+    disable-history     : false;
+    fullscreen          : false;
+    hide-scrollbar      : false;
+    sidebar-mode        : false;
+}
+
+@import "colorscheme.rasi"
+@import "fluent.rasi"

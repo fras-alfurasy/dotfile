@@ -1,0 +1,6 @@
+2023/02/21-21:04:23.257 45e71 Creating DB /home/fras/.config/chromium/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb since it was missing.
+2023/02/21-21:04:23.265 45e71 Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/21-21:10:21.003 171ea Level-0 table #5: started
+2023/02/21-21:10:21.014 171ea Level-0 table #5: 258996 bytes OK
+2023/02/21-21:10:21.016 171ea Delete type=0 #3
+2023/02/21-21:10:21.016 171ea Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,154 @@
+{
+   "about@changelog": {
+      "description": "Changelog link in about section",
+      "message": "Список изменений"
+   },
+   "about@developedBy": {
+      "description": "Developer credits in about section",
+      "message": "Разработчк: Евгений Лис"
+   },
+   "about@feedback": {
+      "description": "Feedback link in about section",
+      "message": "Оставить отзыв"
+   },
+   "about@licensedUnder": {
+      "description": "License info in about section",
+      "message": ""
+   },
+   "about@mitLicense": {
+      "description": "License name",
+      "message": "Лицензия MIT"
+   },
+   "about@sourceCode": {
+      "description": "Source code link in about section",
+      "message": "Исходный код"
+   },
+   "about@sponsor": {
+      "description": "Buy me a coffee donation link in about section",
+      "message": "Поддержать"
+   },
+   "about@title": {
+      "description": "About section title",
+      "message": "О расширении"
+   },
+   "about@translationCta": {
+      "description": "Translation CTA in about section",
+      "message": "Нашли опечатку или хотите перевод на ваш язык?"
+   },
+   "about@translationCtaButton": {
+      "description": "Translation CTA button in about section",
+      "message": "Начните здесь"
+   },
+   "about@website": {
+      "description": "Website link in about section",
+      "message": "Мой веб-сайт"
+   },
+   "author": {
+      "description": "Extension author",
+      "message": "Евгений Лис"
+   },
+   "description": {
+      "description": "Extension description",
+      "message": "Расширение, позволяющее легко генерировать сложные и надежные пароли в один клик"
+   },
+   "error@moreCharacters": {
+      "description": "Error message when password length is less than 4 characters",
+      "message": "Минимальная длина пароля — 4 символа"
+   },
+   "error@noCharacters": {
+      "description": "Error message when no character set is selected",
+      "message": "Необходимо выбрать хотя бы один вид символов"
+   },
+   "error@tooLong": {
+      "description": "Error message when password length is too long to generate password with unique characters",
+      "message": "Выбранная длина слишком большая, для генерации уникальных символов"
+   },
+   "generator@copy": {
+      "description": "Copy button label",
+      "message": "Копировать"
+   },
+   "generator@exclude": {
+      "description": "Exclude characters button label",
+      "message": "Исключить"
+   },
+   "generator@include": {
+      "description": "Include characters button label",
+      "message": "Добавить"
+   },
+   "generator@quickOptions": {
+      "description": "Quick options section title",
+      "message": "Быстрые настройки"
+   },
+   "generator@quickOptions__hint": {
+      "description": "Quick options hint",
+      "message": "Эти настройки не будут сохранены"
+   },
+   "generator@refresh": {
+      "description": "Generate new password button label",
+      "message": "Сгенерировать новый"
+   },
+   "generator@reset": {
+      "description": "Reset button label",
+      "message": "Сбросить"
+   },
+   "name": {
+      "description": "Extension name",
+      "message": "Генератор паролей"
+   },
+   "settings@ambiguous": {
+      "description": "Ambiguous characters character set label in settings section",
+      "message": "Особые"
+   },
+   "settings@exclude": {
+      "description": "Exclude character sets section",
+      "message": "Исключить символы"
+   },
+   "settings@include": {
+      "description": "Include character sets section",
+      "message": "Добавить символы"
+   },
+   "settings@length": {
+      "description": "Password length label in settings section",
+      "message": "Длина пароля по умолчанию"
+   },
+   "settings@lengthRange": {
+      "description": "Quick adjustment length range label in settings section",
+      "message": "Диапазон длины для быстрых настроек"
+   },
+   "settings@length__hint": {
+      "description": "Password length recommendatin in settings section",
+      "message": "Рекомендованная длина: 8–16"
+   },
+   "settings@lowercase": {
+      "description": "Lowercase character set label in settings section",
+      "message": "Строчные"
+   },
+   "settings@numeric": {
+      "description": "Numbers character set label in settings section",
+      "message": "Числовые"
+   },
+   "settings@repeating": {
+      "description": "Repeating characters character set label in settings section",
+      "message": "Повторяющиеся"
+   },
+   "settings@repeating__hint": {
+      "description": "Repeating characters character set hint in settings section",
+      "message": "Каждый символ пароля будет уникальным"
+   },
+   "settings@similar": {
+      "description": "Similar characters character set label in settings section",
+      "message": "Похожие"
+   },
+   "settings@special": {
+      "description": "Special characters character set label in settings section",
+      "message": "Специальные"
+   },
+   "settings@title": {
+      "description": "Settings section title",
+      "message": "Настройки"
+   },
+   "settings@uppercase": {
+      "description": "Uppercase character set label in settings section",
+      "message": "Прописные"
+   }
+}

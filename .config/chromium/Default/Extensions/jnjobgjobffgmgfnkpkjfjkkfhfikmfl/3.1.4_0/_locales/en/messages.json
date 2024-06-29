@@ -1,0 +1,154 @@
+{
+   "about@changelog": {
+      "description": "Changelog link in about section",
+      "message": "Changelog"
+   },
+   "about@developedBy": {
+      "description": "Developer credits in about section",
+      "message": "Developed by Eugene Fox"
+   },
+   "about@feedback": {
+      "description": "Feedback link in about section",
+      "message": "Leave feedback"
+   },
+   "about@licensedUnder": {
+      "description": "License info in about section",
+      "message": "Licensed under"
+   },
+   "about@mitLicense": {
+      "description": "License name",
+      "message": "MIT License"
+   },
+   "about@sourceCode": {
+      "description": "Source code link in about section",
+      "message": "Source code"
+   },
+   "about@sponsor": {
+      "description": "Buy me a coffee donation link in about section",
+      "message": "Buy me a coffee"
+   },
+   "about@title": {
+      "description": "About section title",
+      "message": "About"
+   },
+   "about@translationCta": {
+      "description": "Translation CTA in about section",
+      "message": "Found a typo or want a translation for your language?"
+   },
+   "about@translationCtaButton": {
+      "description": "Translation CTA button in about section",
+      "message": "Get started here"
+   },
+   "about@website": {
+      "description": "Website link in about section",
+      "message": "My website"
+   },
+   "author": {
+      "description": "Extension author",
+      "message": "Eugene Fox"
+   },
+   "description": {
+      "description": "Extension description",
+      "message": "Password generator extension allows you to easily generate long and secure password in one click"
+   },
+   "error@moreCharacters": {
+      "description": "Error message when password length is less than 4 characters",
+      "message": "Password length must be at least 4 characters"
+   },
+   "error@noCharacters": {
+      "description": "Error message when no character set is selected",
+      "message": "At least one set of characters must be selected"
+   },
+   "error@tooLong": {
+      "description": "Error message when password length is too long to generate password with unique characters",
+      "message": "Length is too long to generate password with unique characters"
+   },
+   "generator@copy": {
+      "description": "Copy button label",
+      "message": "Copy"
+   },
+   "generator@exclude": {
+      "description": "Exclude characters button label",
+      "message": "Exclude"
+   },
+   "generator@include": {
+      "description": "Include characters button label",
+      "message": "Include"
+   },
+   "generator@quickOptions": {
+      "description": "Quick options section title",
+      "message": "Quick adjustments"
+   },
+   "generator@quickOptions__hint": {
+      "description": "Quick options hint",
+      "message": "These adjustments will not be saved"
+   },
+   "generator@refresh": {
+      "description": "Generate new password button label",
+      "message": "Generate new"
+   },
+   "generator@reset": {
+      "description": "Reset button label",
+      "message": "Reset"
+   },
+   "name": {
+      "description": "Extension name",
+      "message": "Password Generator"
+   },
+   "settings@ambiguous": {
+      "description": "Ambiguous characters character set label in settings section",
+      "message": "Ambiguous"
+   },
+   "settings@exclude": {
+      "description": "Exclude character sets section",
+      "message": "Exclude symbols"
+   },
+   "settings@include": {
+      "description": "Include character sets section",
+      "message": "Include symbols"
+   },
+   "settings@length": {
+      "description": "Password length label in settings section",
+      "message": "Default password length"
+   },
+   "settings@lengthRange": {
+      "description": "Quick adjustment length range label in settings section",
+      "message": "Quick adjustment length range"
+   },
+   "settings@length__hint": {
+      "description": "Password length recommendatin in settings section",
+      "message": "Recommended length: 8–16"
+   },
+   "settings@lowercase": {
+      "description": "Lowercase character set label in settings section",
+      "message": "Lowercase"
+   },
+   "settings@numeric": {
+      "description": "Numbers character set label in settings section",
+      "message": "Numeric"
+   },
+   "settings@repeating": {
+      "description": "Repeating characters character set label in settings section",
+      "message": "Repeating"
+   },
+   "settings@repeating__hint": {
+      "description": "Repeating characters character set hint in settings section",
+      "message": "Each character in the password will be unique"
+   },
+   "settings@similar": {
+      "description": "Similar characters character set label in settings section",
+      "message": "Similar"
+   },
+   "settings@special": {
+      "description": "Special characters character set label in settings section",
+      "message": "Special"
+   },
+   "settings@title": {
+      "description": "Settings section title",
+      "message": "Settings"
+   },
+   "settings@uppercase": {
+      "description": "Uppercase character set label in settings section",
+      "message": "Uppercase"
+   }
+}

@@ -1,0 +1,14 @@
+2024/04/30-09:58:36.620 52c Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/30-09:58:36.622 52c Recovering log #51
+2024/04/30-09:58:36.625 52c Reusing old log /home/fras/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000051.log 
+2024/04/30-09:58:36.627 52c Delete type=2 #49
+2024/04/30-09:58:36.910 537 Level-0 table #56: started
+2024/04/30-09:58:36.920 537 Level-0 table #56: 1474 bytes OK
+2024/04/30-09:58:36.930 537 Delete type=0 #51
+2024/04/30-09:58:36.931 537 Manual compaction at level-0 from '\x00\x14\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at '\x00\x14\x00\x00\x05' @ 672 : 1
+2024/04/30-09:58:36.931 537 Compacting 1@0 + 1@1 files
+2024/04/30-09:58:36.939 537 Generated table #57@0: 172 keys, 2674 bytes
+2024/04/30-09:58:36.939 537 Compacted 1@0 + 1@1 files => 2674 bytes
+2024/04/30-09:58:36.947 537 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/30-09:58:36.947 537 Delete type=2 #56
+2024/04/30-09:58:36.947 537 Manual compaction at level-0 from '\x00\x14\x00\x00\x05' @ 672 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at (end)

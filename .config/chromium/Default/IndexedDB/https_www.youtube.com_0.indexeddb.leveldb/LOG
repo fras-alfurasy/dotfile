@@ -1,0 +1,12 @@
+2024/04/28-19:09:55.844 511 Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/28-19:09:55.844 511 Recovering log #226
+2024/04/28-19:09:55.886 511 Reusing old log /home/fras/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000226.log 
+2024/04/28-19:10:22.871 4da Level-0 table #231: started
+2024/04/28-19:10:22.911 4da Level-0 table #231: 1684813 bytes OK
+2024/04/28-19:10:22.920 4da Delete type=0 #226
+2024/04/28-19:10:37.775 4da Compacting 1@1 + 1@2 files
+2024/04/28-19:10:37.784 4da Generated table #232@1: 564 keys, 46592 bytes
+2024/04/28-19:10:37.784 4da Compacted 1@1 + 1@2 files => 46592 bytes
+2024/04/28-19:10:37.786 4da compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/28-19:10:37.786 4da Delete type=2 #231
+2024/04/28-19:10:37.786 4da Delete type=2 #228

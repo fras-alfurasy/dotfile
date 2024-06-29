@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "data/icons/16.png",
+         "32": "data/icons/32.png",
+         "48": "data/icons/48.png",
+         "64": "data/icons/64.png"
+      },
+      "default_popup": "data/popup/popup.html",
+      "default_title": "Onion Browser Button"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "_execute_action": {
+      }
+   },
+   "description": "Easily browse the internet using TOR proxy with just one click!",
+   "differential_fingerprint": "1.cfd6986d3937a2c9922a1bf9a19c772955bb768219da06c17ee25429daec02f6",
+   "homepage_url": "https://mybrowseraddon.com/tor-button.html",
+   "host_permissions": [ "https://check.torproject.org/*" ],
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5o6ZvITQxHVlikr2m93assCWuL30teBP9Z8+l5Euov94eFYHbwmXCZP9IwgzCSmCPzarhXiSLqd+b8TG4fco/6/L6LqSHHFZZZv45rdI/ue/PgGHfS5pLNpkFE450b1N6D1puM/MDqkZ8zUYgWI3R9G6lx0qp7p5eNYySuzhSdRwek6iMjYGYhU5lsQHhUcflwIqVsx+DIhAcwvYM5uDpV06QVmxwRR4TDsLvzevaIBmUkzgTIwfg8YPz/omX0cwmJaAYLRFPgwy5HMhQBpuU0sPym4Zm7+NzyZvTlN7GhX4l60UsNvyR5sL42/Fj6lGAPCxM8WVuT2JBanWidO1wIDAQAB",
+   "manifest_version": 3,
+   "name": "Onion Browser Button",
+   "permissions": [ "proxy", "storage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.4"
+}

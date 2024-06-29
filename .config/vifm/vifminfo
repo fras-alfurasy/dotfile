@@ -1,0 +1,429 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'M
+	/run/media/void/
+	..
+1641336530
+'P
+	/home/void/photos/
+	..
+1641336530
+'a
+	/home/void/apps/
+	..
+1641336530
+'d
+	/home/void/dl/
+	..
+1641336530
+'h
+	/home/void/
+	..
+1641336530
+'m
+	/media/
+	..
+1641336530
+'p
+	/home/void/projects/
+	..
+1641336530
+'t
+	/home/void/.vifm/Trash/
+	..
+1641336530
+'v
+	/home/void/videos/
+	..
+1641336530
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/media/void/nullptr/Videos/Serieses/black list s7
+	19والاخيرة.mp4
+18
+d/media/void/nullptr/Videos/Serieses
+	The 100
+8
+d/media/void/nullptr/Videos/Serieses/The 100
+	S7
+6
+d/media/void/nullptr/Videos/Serieses/The 100/S7
+	[EgyBest].The.100.S07E02.HDTV.720p.x264.mp4
+1
+d/media/void/nullptr/Videos/Serieses
+	Chernobyl.2019.S01-
+3
+d/media/void/nullptr/Videos/Serieses/Chernobyl.2019.S01-
+	Chernobyl.S01E03.720p.WEBRip.x264-TBS[eztv].mkv
+6
+d/
+	media
+8
+d/home/void
+	Downloads
+1
+d/home/void/Downloads
+	..
+0
+d/home/void
+	apps
+1
+d/home/void/apps
+	iso
+0
+d/home/void
+	Android
+0
+d/home/void/Android
+	Sdk
+0
+d/home/void
+	games
+5
+d/home/void/games
+	..
+0
+d/home/void
+	music
+8
+d/home/void/music
+	8D
+0
+d/home/void
+	videos
+11
+d/home/void/videos
+	..
+0
+d/home/void
+	pt
+10
+d/home/void/pt
+	hotspots
+0
+d/home/void
+	pt
+10
+d/home/void/pt
+	hotspots
+0
+d/home/void/pt/hotspots
+	b.txt
+0
+d/home/void/pt
+	hotspots
+0
+d/home/void
+	photos
+9
+d/home/void/photos
+	wallpapers
+0
+d/home/void/photos/wallpapers
+	starry-night-sky.jpg
+12
+d/home/void/dl/data-mining
+	archive.zip
+0
+d/media/void/nullptr
+	Backup
+2
+d/media/void/nullptr/Backup
+	Linux
+0
+d/media/void/nullptr/Backup/Linux
+	dl
+1
+d/media/void/nullptr/Backup/Linux/dl
+	4_6030477036722588691.pdf
+3
+d/media/void/nullptr/Backup/Linux
+	dl
+1
+d/media/void/nullptr/Backup
+	bak
+2
+d/media/void/nullptr/Backup/bak
+	last
+0
+d/media/void/nullptr/Backup/bak/last
+	صور
+12
+d/media/void/nullptr/Backup/bak/last/صور
+	Saved Pictures
+1
+d/media/void/nullptr/Backup/bak/last/صور/Saved Pictures
+	desktop.ini
+0
+d/media/void/nullptr/Backup/bak/last/صور
+	Camera Roll
+0
+d/media/void/nullptr/Backup/bak/last/صور/Camera Roll
+	desktop.ini
+0
+d/media/void/nullptr/Backup/bak/last/صور
+	Camera Roll
+0
+d/media/void/nullptr/Backup/bak/last
+	[U3-Web] Gekijouban Danmachi - Orion no Ya (2019) [U-NEXT WEB-DL 1080p AVC AAC].mkv
+29
+d/media/void/nullptr/Backup/bak
+	last
+0
+d/media/void/nullptr/Backup
+	bak
+2
+d/media/void/nullptr
+	Backup
+2
+d/media/void/nullptr/Backup
+	bak
+2
+d/media/void/nullptr/Backup/bak
+	last
+0
+d/media/void/nullptr/Backup/bak/last
+	دورة تصميم الهوية التجارية
+7
+d/media/void/nullptr/Backup/bak/last/دورة تصميم الهوية التجارية
+	1-1 مقدمة دورة تصميم الهوية البصرية باللستريتر.mp4
+0
+d/media/void/nullptr/Backup/bak/last
+	c
+3
+d/media/void/nullptr/Backup/bak/last/c
+	Users
+0
+d/media/void/nullptr/Backup/bak/last/c/Users
+	DELL
+0
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL
+	Desktop
+3
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop
+	New folder (5)
+7
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop/New folder (5)
+	..
+0
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop
+	New folder (4)
+6
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop/New folder (4)
+	..
+0
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop
+	20222
+0
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop/20222
+	..
+0
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop
+	APPS
+1
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop/APPS
+	3D Viewer.lnk
+0
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop
+	AlQadhi
+2
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop/AlQadhi
+	..
+0
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop
+	New Feeding
+5
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop/New Feeding
+	..
+0
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL/Desktop
+	New Feeding
+5
+d/media/void/nullptr/Backup/bak/last/c/Users/DELL
+	Desktop
+3
+d/media/void/nullptr/Backup/bak/last/c/Users
+	DELL
+0
+d/media/void/nullptr/Backup/bak/last/c
+	Users
+0
+d/media/void/nullptr/Backup/bak/last
+	jaj
+4
+d/media/void/nullptr/Backup/bak/last/jaj
+	biraq-admin
+0
+d/media/void/nullptr/Backup/bak/last
+	web
+8
+d/media/void/nullptr/Backup/bak/last/web
+	biraq-admin
+0
+d/media/void/nullptr/Backup/bak/last
+	شكوى 2.docx
+45
+d/media/void/nullptr/Backup/bak
+	last
+0
+d/media/void/nullptr/Backup
+	bak
+2
+d/media/void/nullptr
+	Wallpapers
+8
+d/media/void/nullptr/Wallpapers
+	0086.jpg
+30
+d/media/void/nullptr
+	Programs
+5
+d/media/void/nullptr/Programs
+	Linux
+1
+d/media/void/nullptr/Programs/Linux
+	Programming
+0
+d/media/void/nullptr/Programs/Linux/Programming
+	IDEs
+0
+d/media/void/nullptr/Programs/Linux/Programming/IDEs
+	JetBrains
+0
+d/media/void/nullptr/Programs/Linux/Programming
+	IDEs
+0
+d/media/void/nullptr/Programs/Linux
+	Programming
+0
+d/media/void/nullptr/Programs
+	Linux
+1
+d/media/void/nullptr
+	Backup
+2
+d/media/void/nullptr/Backup
+	Windows
+1
+d/media/void/nullptr/Backup/Windows
+	source
+1
+d/media/void/nullptr/Backup/Windows/source
+	repos
+0
+d/media/void/nullptr/Backup/Windows/source/repos
+	..
+0
+d/media/void/nullptr/Backup/Windows/source
+	repos
+0
+d/media/void/nullptr/Backup/Windows
+	Projects
+0
+d/media/void/nullptr/Backup/Windows/Projects
+	cars
+25
+d/media/void/nullptr/Backup/Windows/Projects/cars
+	cars
+2
+d/media/void/nullptr/Backup/Windows/Projects/cars/cars
+	board.h
+4
+d/media/void/nullptr/Backup/Windows/Projects/cars
+	cars
+2
+d/home/void/tr/banners
+	86805259-coffee-beans-pattern.jpg
+0
+d/media/void/nullptr
+	System Volume Information
+6
+d
+
+# Right window history (oldest to newest):
+D/home/void
+	Android
+0
+D/media
+	void
+1
+D/media/void
+	122A2D212A2D0379
+0
+D/media/void/122A2D212A2D0379
+	$Recycle.Bin
+0
+D/media/void
+	وحدة تخزين جديدة
+1
+D/media/void/وحدة تخزين جديدة
+	#مشروعنا
+0
+D/media/void
+	nullptr
+0
+D
+
+# Command line history (oldest to newest):
+:goto /media/void/
+:mkdir amja
+:mkdir d
+:trashes
+:w
+:!rm download*
+:q
+:qa
+
+# Search history (oldest to newest):
+/arch
+/12
+/Tra
+/Tran
+/home
+
+# Prompt history (oldest to newest):
+pamjad
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/media/void/nullptr/.vifm-Trash-1000/000_Homework.pdf
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/media/void/nullptr/.vifm-Trash-1000/000_La.Casa.De.Papel.S05
+	/media/void/nullptr/Videos/Serieses/La.Casa.De.Papel.S05
+t/media/void/nullptr/.vifm-Trash-1000/000_Lucifer 1
+	/media/void/nullptr/Videos/Serieses/Lucifer 1
+t/media/void/nullptr/.vifm-Trash-1000/000_Game of Thrones
+	/media/void/nullptr/Videos/Serieses/Game of Thrones
+t/home/void/.vifm-Trash-1000/000_Downloads
+	/home/void/Downloads
+t/media/void/nullptr/.vifm-Trash-1000/000_Transaction-Receipt (1).pdf
+	/media/void/nullptr/Backup/Linux/dl/Transaction-Receipt (1).pdf
+t/media/void/nullptr/.vifm-Trash-1000/000_Transaction-Receipt.pdf
+	/media/void/nullptr/Backup/Linux/dl/Transaction-Receipt.pdf
+t/media/void/nullptr/.vifm-Trash-1000/000_Homework.pdf
+	/media/void/nullptr/Backup/Linux/dl/Homework.pdf
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0

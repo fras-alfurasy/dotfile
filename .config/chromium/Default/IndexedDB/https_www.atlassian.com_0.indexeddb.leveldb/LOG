@@ -1,0 +1,7 @@
+2023/02/16-10:19:41.501 c3d7 Reusing MANIFEST /home/fras/.config/chromium/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/16-10:19:41.501 c3d7 Recovering log #3
+2023/02/16-10:19:41.504 c3d7 Reusing old log /home/fras/.config/chromium/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/000003.log 
+2023/02/16-10:24:21.316 ccca Level-0 table #5: started
+2023/02/16-10:24:21.332 ccca Level-0 table #5: 33895 bytes OK
+2023/02/16-10:24:21.334 ccca Delete type=0 #3
+2023/02/16-10:24:21.335 ccca Manual compaction at level-0 from (begin) .. (end); will stop at (end)
